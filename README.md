@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Spring Boot<br>🎯 Goals: I want to be an expert in Java</p>
+<p align="left">📚 I'm currently learning Spring Boot and Kotlin <br>🎯 Goals: I want to be an expert in Java</p>
 
 ###
 
